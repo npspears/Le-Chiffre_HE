@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "mo-random-keyboard-parts")(type "KiCad")(uri "C:/Users/Nathan Spears/Documents/GitHub/45-ATS-Ortho/mo-random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "C:/Users/Nathan Spears/Documents/GitHub/45-ATS-Ortho/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "MX_Only")(type "KiCad")(uri "C:/Users/Nathan Spears/Documents/GitHub/Candybar-Ortho/MX_Alps_Hybrid.pretty/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "CB_Logo")(type "KiCad")(uri "C:/Users/Nathan Spears/Documents/CheckerBoards/Art/CB_Logo.pretty")(options "")(descr ""))
+)
